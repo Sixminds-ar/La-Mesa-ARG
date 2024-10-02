@@ -1,0 +1,24 @@
+c:\users\sevee\onedrive\documentos\visual studio 2015\Projects\LaMesarg\LaMesarg\bin\Debug\LaMesarg.exe.config
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\bin\Debug\LaMesarg.exe
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\bin\Debug\LaMesarg.pdb
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\obj\Debug\LaMesarg.csprojResolveAssemblyReference.cache
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Conexion.ConexionManual.resources
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Modulos.Mesas_Salones.Configurar_mesas.resources
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Properties.Resources.resources
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\obj\Debug\LaMesarg.csproj.GenerateResource.Cache
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\obj\Debug\LaMesarg.exe
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\obj\Debug\LaMesarg.pdb
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Modulos.Mesas_Salones.Salones.resources
+C:\Users\Sevee\OneDrive\Documentos\Visual Studio 2015\Projects\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Modulos.Mesas_Salones.Agregar_mesa_ok.resources
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\bin\Debug\LaMesarg.exe.config
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\obj\Debug\LaMesarg.exe
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\obj\Debug\LaMesarg.pdb
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\obj\Debug\LaMesarg.csprojResolveAssemblyReference.cache
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Conexion.ConexionManual.resources
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Modulos.Mesas_Salones.Agregar_mesa_ok.resources
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Modulos.Mesas_Salones.Configurar_mesas.resources
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Modulos.Mesas_Salones.Salones.resources
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\obj\Debug\LaMesarg.csproj.GenerateResource.Cache
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\bin\Debug\LaMesarg.exe
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\bin\Debug\LaMesarg.pdb
+D:\LaMesarg\LaMesarg\LaMesarg\LaMesarg\obj\Debug\LaMesarg.Properties.Resources.resources
